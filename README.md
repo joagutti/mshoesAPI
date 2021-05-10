@@ -1,5 +1,5 @@
 # API for data package fetching
 
-This is a idea, the current project is discontinued
+This is an idea, the current project is frozen
 
 > current state: changing
